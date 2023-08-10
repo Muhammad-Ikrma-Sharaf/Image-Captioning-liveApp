@@ -1,6 +1,5 @@
 # Image-Captioning-liveApp
 Image Captioning using hugging face model made live on streamlit app.
 
-
-Uploading Screen Recording 2023-08-10 at 11.16.46 PM.mp4…
+https://github.com/Muhammad-Ikrma-Sharaf/Image-Captioning-liveApp/assets/115670776/1975ff0d-f6cb-453b-9538-873f47e9e555
 
